@@ -2,4 +2,4 @@ package pack
 
 import "fmt"
 
-func hola() { fmt.Println("Hola") }
+func Hola() { fmt.Println("Hola") }
